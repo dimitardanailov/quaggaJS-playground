@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "quaggaJS-playground"
+    }
+  },
+  "defaultProject": "quaggaJS-playground",
+  "cli": {
+    "analytics": "0343a53d-f4ba-479e-93bd-d9847b378464"
+  }
 }
